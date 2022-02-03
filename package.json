@@ -1,7 +1,7 @@
 {
   "name": "github-rater",
   "version": "0.1.0",
-  "homepage": "https://aykutsarac.github.io/github-rater",
+  "homepage": "https://github-rater.vercel.app",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.2",
