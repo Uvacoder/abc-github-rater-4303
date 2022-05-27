@@ -7,7 +7,7 @@
 
 [GitHub Rater](https://aykutsarac.github.io/github-rater) rates GitHub profiles upon data received from GitHub API. You can use this tool to find out which part of the profile should be improved to make it more effective. As well as to assess the popularity and activity of other people's profile.
 
-![Screenshot](./assets/preview.png)
+![Screenshot](./public/screenshot-githubrater.png)
 
 ## Features
 
